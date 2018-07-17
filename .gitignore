@@ -1,0 +1,4 @@
+/**/.gradle/
+/**/gradle/
+/**/build/
+#gradlew* - put it to "Extract" category of your project
